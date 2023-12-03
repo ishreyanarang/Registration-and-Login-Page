@@ -1,5 +1,4 @@
-# Registration-and-Login-Page
-Basic form for registration and login.
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
